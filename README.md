@@ -39,6 +39,12 @@ Completar una ruta formativa estructurada en paralelo a mi carrera universitaria
 - GitHub: [@BarrionuevoFrann22](https://github.com/BarrionuevoFrann22)
 - Email: barrionuevofrann22@gmail.com
 
+## Compromiso de estudio
+
+- Lunes a Viernes: 9:00 - 11:00 AM (2 horas diarias)
+- Sábados: variable según disponibilidad
+- Total estimado: 10-13 horas semanales
+- Inicio del plan formal: 29 de Abril de 2026
 ---
 
 *Este repositorio se actualiza regularmente a medida que avanzo en mi formación.*
